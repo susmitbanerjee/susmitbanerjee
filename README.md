@@ -19,7 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/me/stories/public
+https://medium.com/@susmit.b1
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
